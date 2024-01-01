@@ -11,6 +11,7 @@ Spin up your Cassandra cluster with UI Client in local less than 5 minutes with 
 3. Review your configurations with `terraform plan`
 4. Then, finally run `terraform apply` to apply the config which will spin up defined containers alongside with pulling images beforehand
 5. Then go to http://localhost:3000
+6. Get started with Cassandra by follow the [quickstart](https://cassandra.apache.org/_/quickstart.html) provided by the Officials
 6. To cleanup everything, run `terraform destroy`
 
 ## Tools
